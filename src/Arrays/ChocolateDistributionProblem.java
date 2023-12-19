@@ -25,6 +25,7 @@ public class ChocolateDistributionProblem {
         
         Collections.sort(ar);
         
+        
         int i = 0;
 		int j = M - 1;
 		int mini = Integer.MAX_VALUE; // we take Integer.MAX_VALUE; so its store next min value
